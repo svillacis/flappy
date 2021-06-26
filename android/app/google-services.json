@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467507127406",
+    "project_id": "flappy-doge-81b49",
+    "storage_bucket": "flappy-doge-81b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467507127406:android:f28d5cd41383760908727f",
+        "android_client_info": {
+          "package_name": "us.ubuntustudios.flappy_doge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467507127406-ormbml9cmjvpfgfbld3v9k59m32k7qvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6Rzww_hHleH-1Hayc_Z3LMNA9x663zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467507127406-ormbml9cmjvpfgfbld3v9k59m32k7qvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
